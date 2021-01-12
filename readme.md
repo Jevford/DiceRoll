@@ -1,4 +1,8 @@
-# Simple Dice Game using Java GUI components.  Popularly known as Craps.
+# Simple Dice Game using Java GUI components.  Known as Craps.
+
+## How to run:
+- Simply execute the Craps.jar file by double clicking the item.
+** Please take note that you must have a JRE (Java Runtime Environment) installed to run jar files.
 
 ## How to Play: 
 - Place a bet that is within your given cashpool (default: $1000).
