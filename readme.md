@@ -2,7 +2,8 @@
 
 ## How to run:
 - Simply execute the Craps.jar file by double clicking the item.
-** Please take note that you must have a JRE (Java Runtime Environment) installed to run jar files. **
+
+*Please take note that you must have a JRE (Java Runtime Environment) installed to run jar files.*
 
 ## How to Play: 
 - Place a bet that is within your given cashpool (default: $1000).
